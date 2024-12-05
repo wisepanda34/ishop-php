@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule (.*) public/$1 
+# указывает на папку, 
+# в которой точка входа в прилажение

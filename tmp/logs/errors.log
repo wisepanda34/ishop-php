@@ -1,0 +1,406 @@
+[2024-11-21 21:30:35] Text message: Error test! | File: C:\OSPanel\domains\ishop-php\public\index.php | Line: 17
+=============
+[2024-11-21 21:31:56] Text message: Error test! | File: C:\OSPanel\domains\ishop-php\public\index.php | Line: 17
+=============
+[2024-11-21 21:34:50] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\public\index.php | Line: 19
+=============
+[2024-11-21 21:35:40] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\public\index.php | Line: 19
+=============
+[2024-11-22 12:36:29] Text message: Error test! | File: C:\OSPanel\domains\ishop-php\public\index.php | Line: 17
+=============
+[2024-11-24 11:26:25] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 11:26:27] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 11:41:32] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 11:41:54] Text message: Controller app\controllers\admin\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 11:42:13] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 11:42:14] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:49:57] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:49:57] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:51:29] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:51:41] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:51:57] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:52:06] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 43
+=============
+[2024-11-24 12:52:11] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 40
+=============
+[2024-11-24 12:57:09] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 41
+=============
+[2024-11-24 12:57:25] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 44
+=============
+[2024-11-24 13:37:15] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 13:37:42] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 13:41:24] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 54
+=============
+[2024-11-24 13:41:46] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-24 13:42:22] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-24 13:42:50] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 52
+=============
+[2024-11-24 13:43:34] Text message: Controller app\controllers\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-24 13:43:47] Text message: Controller app\controllers\ProducController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-24 13:43:58] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-24 13:44:53] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:44:54] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:45:22] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:46:18] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:46:34] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:47:04] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:47:08] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-24 13:47:57] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 57
+=============
+[2024-11-24 13:47:58] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 57
+=============
+[2024-11-24 13:48:04] Text message: Controller app\controllers\ProducController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 57
+=============
+[2024-11-24 16:35:01] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:35:03] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:35:07] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:35:08] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:35:24] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:35:25] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:35:25] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:35:28] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:36:18] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:19] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:29] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:30] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:30] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:34] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:35] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:36] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:46] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:36:54] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:37:24] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:37:31] Text message: Controller app\controllers\admin\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:37:50] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:37:50] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:37:51] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:37:53] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:37:54] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:38:19] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:38:20] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:38:20] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:38:20] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:38:39] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:38:42] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:38:57] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:39:10] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:40:18] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:40:20] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:40:20] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:41:00] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:41:27] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:41:28] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:41:28] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:41:28] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:41:31] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-24 16:41:37] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:42:35] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 50
+=============
+[2024-11-24 16:42:49] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 48
+=============
+[2024-11-24 16:42:51] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 48
+=============
+[2024-11-27 17:50:50] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 55
+=============
+[2024-11-27 17:54:21] Text message: Controller app\controllers\admin\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 55
+=============
+[2024-11-27 17:54:31] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 55
+=============
+[2024-11-27 17:54:31] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 55
+=============
+[2024-11-27 17:55:54] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:56:49] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:58:32] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:58:43] Text message: Controller app\controllers\ProducController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:58:46] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:58:49] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:58:51] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 17:59:00] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 17:59:09] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 17:59:20] Text message: Controller app\controllers\admin\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:59:25] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:59:25] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 17:59:27] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:12:41] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:12:50] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:14:02] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:19:12] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:19:25] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:19:25] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:19:38] Text message: Controller app\controllers\admin\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:19:41] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:19:42] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:21:55] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:21:58] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:22:01] Text message: Controller app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:28:17] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:30:09] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:30:13] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:30:13] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:30:13] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:32:15] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:32:16] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:33:53] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:34:00] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:34:09] Text message: Controller app\controllers\admin\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:34:13] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:34:14] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:35:51] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:35:53] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:35:53] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:38:57] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:39:01] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:39:03] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:39:08] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-27 18:39:44] Text message: Typed property wfm\Controller::$model must not be accessed before initialization | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 11
+=============
+[2024-11-27 18:41:15] Text message: Typed property wfm\Controller::$model must not be accessed before initialization | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 11
+=============
+[2024-11-27 18:41:58] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:41:59] Text message: Controller app\controllers\admin\MainController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-11-27 18:43:53] Text message: Action app\controllers\ProductController::viewAction not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 56
+=============
+[2024-11-29 16:34:14] Text message: Object of class app\controllers\admin\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-29 16:38:49] Text message: Object of class app\controllers\MainController could not be converted to string | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-29 16:50:45] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 62
+=============
+[2024-11-29 17:36:20] Text message: preg_match(): No ending delimiter '^' found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 77
+=============
+[2024-11-29 17:38:36] Text message: Array to string conversion | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 78
+=============
+[2024-11-29 18:27:31] Text message: Action app\controllers\ProductController::viewAction not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-29 18:28:51] Text message: Action viewAction inside app\controllers\ProductController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 49
+=============
+[2024-11-29 18:33:47] Text message: Typed property wfm\Controller::$model must not be accessed before initialization | File: C:\OSPanel\domains\ishop-php\app\controllers\ProductController.php | Line: 11
+=============
+[2024-11-29 18:40:53] Text message: Typed property wfm\Controller::$model must not be accessed before initialization | File: C:\OSPanel\domains\ishop-php\app\controllers\ProductController.php | Line: 11
+=============
+[2024-11-30 21:43:24] Text message: Controller app\controllers\ProductOneController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-30 21:44:16] Text message: Controller app\controllers\ProductOneController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-30 21:45:39] Text message: Controller app\controllers\admin\ProductOneController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-30 21:45:42] Text message: Controller app\controllers\ProductOneController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-30 21:45:46] Text message: Controller app\controllers\PageController not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 53
+=============
+[2024-11-30 21:50:55] Text message:  Not found C:\OSPanel\domains\ishop-php/app/views/admin/Main/index.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 36
+=============
+[2024-11-30 21:50:57] Text message:  Not found C:\OSPanel\domains\ishop-php/app/views/admin/Main/index.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 36
+=============
+[2024-11-30 21:52:24] Text message:  Not found C:\OSPanel\domains\ishop-php/app/views/admin/Main/index.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 34
+=============
+[2024-11-30 22:10:13] Text message: Undefined variable $This | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 40
+=============
+[2024-11-30 22:10:33] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:11:57] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/test.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:12:03] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:13:36] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/test2.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:13:42] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:15:17] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:15:19] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layout/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:15:40] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layouts/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:18:13] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layouts/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:18:14] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layouts/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-11-30 22:18:15] Text message: Undefined property: wfm\view::$C:\OSPanel\domains\ishop-php/app/views/layouts/ishop.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 41
+=============
+[2024-12-01 12:26:07] Text message:  Not found C:\OSPanel\domains\ishop-php/app/views/admin/Main/index.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 36
+=============
+[2024-12-01 13:54:40] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 13:55:33] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 13:55:34] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 13:58:08] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:00:27] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:00:28] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:00:29] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:00:40] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:00:44] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:02:22] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:02:23] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:02:25] Text message:  Not found C:\OSPanel\domains\ishop-php/app/views/admin/Main/index.php | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 36
+=============
+[2024-12-01 14:02:37] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:11:41] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:13:22] Text message: Object of class wfm\view could not be converted to string | File: C:\OSPanel\domains\ishop-php\app\views\layouts\ishop.php | Line: 16
+=============
+[2024-12-01 14:14:10] Text message: Array to string conversion | File: C:\OSPanel\domains\ishop-php\app\views\layouts\ishop.php | Line: 16
+=============
+[2024-12-01 14:14:28] Text message: Array to string conversion | File: C:\OSPanel\domains\ishop-php\app\views\layouts\ishop.php | Line: 16
+=============
+[2024-12-01 14:14:29] Text message: Array to string conversion | File: C:\OSPanel\domains\ishop-php\app\views\layouts\ishop.php | Line: 16
+=============
+[2024-12-01 14:18:05] Text message: Undefined array key "discription" | File: C:\OSPanel\domains\ishop-php\vendor\wfm\View.php | Line: 52
+=============
+[2024-12-01 14:58:50] Text message: Array to string conversion | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Controller.php | Line: 36
+=============
+[2024-12-01 15:11:09] Text message: compact(): Undefined variable $names | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 15
+=============
+[2024-12-01 15:12:53] Text message: compact(): Undefined variable $names | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 15
+=============
+[2024-12-01 15:12:53] Text message: compact(): Undefined variable $names | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 15
+=============
+[2024-12-01 15:12:54] Text message: compact(): Undefined variable $names | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 15
+=============
+[2024-12-01 15:17:26] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 3
+=============
+[2024-12-01 15:17:53] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 3
+=============
+[2024-12-04 17:28:12] Text message: syntax error, unexpected identifier "q", expecting "function" or "const" | File: C:\OSPanel\domains\ishop-php\app\models\Main.php | Line: 5
+=============
+[2024-12-04 17:28:57] Text message: Call to a member function find() on null | File: C:\OSPanel\domains\ishop-php\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Line: 1026
+=============
+[2024-12-04 17:30:07] Text message: require_once(C:\OSPanel\domains\ishop-php/configdb.php): Failed to open stream: No such file or directory | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Db.php | Line: 14
+=============
+[2024-12-04 17:30:59] Text message: require_once(C:\OSPanel\domains\ishop-php/configconfig_db.php): Failed to open stream: No such file or directory | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Db.php | Line: 14
+=============
+[2024-12-04 17:33:08] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 3
+=============
+[2024-12-04 17:33:22] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 3
+=============
+[2024-12-04 17:34:09] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 3
+=============
+[2024-12-04 17:40:07] Text message: Undefined variable $test | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 3
+=============
+[2024-12-05 15:56:06] Text message: app\models\Main::get_names(): Return value must be of type array, none returned | File: C:\OSPanel\domains\ishop-php\app\models\Main.php | Line: 13
+=============
