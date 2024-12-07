@@ -404,3 +404,13 @@
 =============
 [2024-12-05 15:56:06] Text message: app\models\Main::get_names(): Return value must be of type array, none returned | File: C:\OSPanel\domains\ishop-php\app\models\Main.php | Line: 13
 =============
+[2024-12-07 15:55:30] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-12-07 15:58:52] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-12-07 16:04:43] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-12-07 16:04:47] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
+[2024-12-07 16:04:58] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
+=============
