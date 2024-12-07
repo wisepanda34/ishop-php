@@ -11,6 +11,6 @@ define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'ishop');
 define("PATH", 'http://ishop-php');
 define("ADMIN", 'http://ishop-php/admin');
-define("NO_IMAGE", 'uploads/no_image.jpg');
+define("NO_IMAGE", 'uploads/images/no_image.png');
 
 require_once ROOT . '/vendor/autoload.php';

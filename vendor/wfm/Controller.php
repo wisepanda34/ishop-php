@@ -6,7 +6,7 @@ abstract class Controller // базовый абстрактный класс (�
 {
 
   public array $data = []; // это данные из модели для загрузки в вид
-  public array $meta = [];
+  public array $meta = ['title' => '', 'description' => '', 'keywords' => ''];
   public false|string $layout = '';
   public string $view = '';
   public object $model;

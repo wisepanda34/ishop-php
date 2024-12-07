@@ -414,3 +414,49 @@
 =============
 [2024-12-07 16:04:58] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 59
 =============
+[2024-12-07 18:01:54] Text message: syntax error, unexpected token "class", expecting "," or ";" | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 8
+=============
+[2024-12-07 18:01:57] Text message: syntax error, unexpected token "class", expecting "," or ";" | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 8
+=============
+[2024-12-07 18:04:10] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 8
+=============
+[2024-12-07 18:05:08] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 9
+=============
+[2024-12-07 18:05:44] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 9
+=============
+[2024-12-07 18:05:47] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 9
+=============
+[2024-12-07 18:09:58] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:10:01] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:10:01] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:13:19] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:14:45] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:18:49] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:19:06] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 10
+=============
+[2024-12-07 18:20:48] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 11
+=============
+[2024-12-07 18:21:01] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 11
+=============
+[2024-12-07 18:21:04] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 11
+=============
+[2024-12-07 18:21:04] Text message: Class "app\controllers\AppController" not found | File: C:\OSPanel\domains\ishop-php\app\controllers\MainController.php | Line: 11
+=============
+[2024-12-07 21:05:20] Text message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pd.lanquage_id' in 'where clause' | File: C:\OSPanel\domains\ishop-php\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
+=============
+[2024-12-07 22:03:00] Text message: Undefined variable $products | File: C:\OSPanel\domains\ishop-php\app\views\parts\products_loop.php | Line: 6
+=============
+[2024-12-07 22:07:13] Text message: Call to undefined method wfm\view::get_part() | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 49
+=============
+[2024-12-07 22:07:46] Text message: Undefined variable $products | File: C:\OSPanel\domains\ishop-php\app\views\parts\products_loop.php | Line: 6
+=============
+[2024-12-07 22:08:44] Text message: Undefined variable $products | File: C:\OSPanel\domains\ishop-php\app\views\parts\products_loop.php | Line: 6
+=============
+[2024-12-07 22:09:32] Text message: compact(): Undefined variable $1 | File: C:\OSPanel\domains\ishop-php\app\views\Main\index.php | Line: 49
+=============
