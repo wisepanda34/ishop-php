@@ -2788,3 +2788,33 @@
 =============
 [2024-12-11 20:12:56] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
 =============
+[2024-12-11 20:34:16] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:34:16] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:34:30] Text message: file_put_contents(C:\OSPanel\domains\ishop-php/tmp/cache/.txt): Failed to open stream: No such file or directory | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Cache.php | Line: 13
+=============
+[2024-12-11 20:34:30] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:35:20] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:35:20] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:35:32] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:35:32] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:35:32] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:37:54] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:37:54] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:37:54] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:38:02] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:38:26] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
+[2024-12-11 20:38:26] Text message: The page not found | File: C:\OSPanel\domains\ishop-php\vendor\wfm\Router.php | Line: 64
+=============
