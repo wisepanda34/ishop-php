@@ -17,11 +17,8 @@ class AppController extends Controller
     App::$app->setProperty('languages', Language::getLanguages()); //запрос из БД массив доступных языков и запись в свойства приложения
     App::$app->setProperty('language', Language::getLanguage(App::$app->getProperty('languages'))); //определение текущего языка и запись в глобальные свойства
 
-    // debug(App::$app->getProperty('languages'));
-    debug(App::$app->getProperty('language'));
-    // debug(App::$app->getProperties());
-
-    // die;
+    $lang = App::$app->getProperty('language');
+    \wfm\Language::load($lang['code'], $this->route);
   }
 }
 
