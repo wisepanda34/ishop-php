@@ -11,6 +11,5 @@ class AppModel extends Model
   public function get_names(): array
   {
     return R::findAll('names');
-    // return [];
   }
 }

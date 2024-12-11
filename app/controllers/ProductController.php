@@ -2,12 +2,8 @@
 
 namespace app\controllers;
 
-use wfm\Controller;
 
-class ProductController extends Controller
+class ProductController extends AppController
 {
-  public function viewAction()
-  {
-    echo "<h2>This is method viewAction</h2>";
-  }
+  public function viewAction() {}
 }

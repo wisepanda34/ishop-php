@@ -15,6 +15,7 @@ class MainController extends AppController
     $slides = R::findAll('slider');
     $products = $this->model->get_hits(1, 6);
     $this->set(compact('slides', 'products'));
+    $this->setMeta('ISHOP Home page', 'description...', 'keywords...');
   }
 }
 
@@ -23,6 +24,6 @@ class MainController extends AppController
   // {
     // $this->layout = 'default';
     // $names = $this->model->get_names();
-    // $this->setMeta('ISHOP', 'description...1212', 'keywords123');
+    
     // $this->set(compact('names'));
   // }

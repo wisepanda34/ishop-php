@@ -64,7 +64,6 @@ class view
         ->getDatabase()
         ->getLogger();
       $logs = array_merge($logs->grep('SELECT'), $logs->grep('INSERT'), $logs->grep('UPDATE'), $logs->grep('DELETE'));
-      // debug($logs);
     }
   }
 

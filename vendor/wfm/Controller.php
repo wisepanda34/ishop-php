@@ -33,7 +33,6 @@ abstract class Controller // базовый абстрактный класс (�
   public function set($data)
   {
     $this->data = $data;
-    // debug($data);
   }
 
   public function setMeta($title = '', $description = '', $keywords = '')
@@ -43,6 +42,5 @@ abstract class Controller // базовый абстрактный класс (�
       'description' => $description,
       'keywords' => $keywords
     ];
-    // debug($this->meta);
   }
 }

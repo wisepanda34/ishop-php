@@ -25,7 +25,7 @@ class Router
   public static function removeQueryString($url)
   {
     if ($url) {
-      $params = explode('&', $url, 2);
+      $params = explode('?', $url, 2); //делим строку $url по символу ? на 2 части
       if (false === str_contains($params[0], '=')) {
         return rtrim($params[0], '/');
       }
@@ -36,7 +36,12 @@ class Router
   public static function dispatch($url) //Функция dispatch предназначена для маршрутизации запросов в приложении
   {
     $url = self::removeQueryString($url);
+
     if (self::matchRoute($url)) {
+      // debug(self::$route);
+      if (!empty(self::$route['lang'])) {
+        App::$app->setProperty('lang', self::$route['lang']); //передача lang из массива роута в глобальный массив App::$app
+      }
       $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
       if (class_exists($controller)) {
         // /**@var Controller $controllerObject */
@@ -63,7 +68,7 @@ class Router
   public static function matchRoute($url): bool   //сравнивает поступивший url с описанными шаблонами в routes.php и находит совпадение
   {
     foreach (self::$routes as $pattern => $route) {
-      if (preg_match("#{$pattern}#", $url, $matches)) { //поиска соответствий регулярных выражений в строках
+      if (preg_match("#{$pattern}#", $url, $matches)) { //поиск соответствий регулярных выражений в строках
         foreach ($matches as $k => $v) {
           if (is_string($k)) {
             $route[$k] = $v;

@@ -7,7 +7,7 @@
   <div class="col-lg-4 col-sm-6 mb-3">
     <div class="product-card">
       <div class="product-tumb">
-        <a href="product/<?= $product['slug'] ?>"><img src="<?= 'public/' . $product['img'] ?>" alt=""></a>
+        <a href="product/<?= $product['slug'] ?>"><img src="<?= PATH . '/' . $product['img'] ?>" alt=""></a>
       </div>
       <div class="product-details">
         <h4><a href="product/<?= $product['slug'] ?>"><?= $product['title'] ?></a></h4>

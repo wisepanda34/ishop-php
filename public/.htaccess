@@ -1,6 +1,15 @@
 RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule (.*) index.php?$1 [L,QSA]
 
-#Options -Indexes
+# Если файл или директория существуют, пропускаем запрос
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Все остальные запросы перенаправляем на index.php
+RewriteRule ^ index.php [L,QSA]
+
+# Указываем MIME-тип для CSS
+AddType text/css .css
+
+# Отключаем индексацию директорий
+Options -Indexes
+
